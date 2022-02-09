@@ -5,8 +5,8 @@ This pack is made using packwiz, which you can find at https://github.com/packwi
 
 # Building the pack
 If you're impatient enough and can't wait for a proper release, here are some rough intructions on how you can build the pack:
-- Install packwiz
-- Download the contents of the repository
-- Unzip said contents
+- Install [packwiz](https://github.com/packwiz/packwiz#installation)
+- [Download the contents of this repository](https://github.com/ascent08/MCubed/archive/refs/heads/main.zip)
+- Unzip the modpack contents
 - Run `packwiz curseforge export` in the pack's directory, it will output a .zip file
 - Import that zip file into MultiMC, GDLauncher, the Curseforge launcher, etc.
